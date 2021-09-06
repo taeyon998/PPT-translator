@@ -6,6 +6,7 @@ This program will **output a separate pptx file** containing the translated **En
 
 #### How to use  
 '''
+Procedures:
 1. Place your ppt in the same directory as "ppt_translator.exe"  (Eg. both in C:\Users\Desktop)
 2. Double click "ppt_translator.exe"
 3. Enter name of your ppt. (Eg. type "Sample" for Sample.pptx)
