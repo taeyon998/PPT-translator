@@ -17,5 +17,5 @@ This program will **output a separate pptx file** containing the translated **En
 ![image2](readme_screenshot/Screenshot_2.png)  
   
 Make sure the ppt you want to translate is CLOSED. 
-You will see an output file named "Translated_(original name).pptx"  (Eg. "Translated_Sample.pptx")
+You will see an output file named "Translated_(original name).pptx"  (Eg. "Translated_Sample.pptx")  
 ![image3](readme_screenshot/Screenshot_3.png)  
