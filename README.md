@@ -2,7 +2,9 @@
 Uses (1) **googletrans** and (2) **python-pptx** libraries to translate pptx files of any language to English.  
 
 #### Before  
-     <img src="https://github.com/taeyon998/PPT-translator/blob/main/readme_screenshot/Screenshot_4.png" width="400" height="790">
+![image4](readme_screenshot/Screenshot_4.png){:class="img-responsive"}  
+![image4](readme_screenshot/Screenshot_4.png){:height="50%" width="50%"}  
+![image4](readme_screenshot/Screenshot_4.png){:height="700px" width="400px"}  
 #### After  
 ![image5](readme_screenshot/Screenshot_5.png)  
 
