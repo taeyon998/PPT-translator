@@ -2,7 +2,7 @@
 Uses (1) **googletrans** and (2) **python-pptx** libraries to translate pptx files of any language to English.  
 
 #### Before  
-![image4](readme_screenshot/Screenshot_4.png)  
+![image4](readme_screenshot/Screenshot_4.png width="400" height="790")  
 #### After  
 ![image5](readme_screenshot/Screenshot_5.png)  
 
@@ -10,7 +10,7 @@ Uses (1) **googletrans** and (2) **python-pptx** libraries to translate pptx fil
 This program will **output a separate pptx file** containing the translated **English** version.
 
 #### How to use  
-1. Place your ppt in the same directory as "ppt_translator.exe" 
+1. Place your ppt in the same directory as "ppt_translator.exe"  
 ![image1](readme_screenshot/Screenshot_1.png)  
 2. Double click "ppt_translator.exe"
 3. Enter name of your ppt. (Eg. type "Sample" for Sample.pptx)  
