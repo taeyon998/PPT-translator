@@ -2,9 +2,7 @@
 Uses (1) **googletrans** and (2) **python-pptx** libraries to translate pptx files of any language to English.  
 
 #### Before  
-![image4](readme_screenshot/Screenshot_4.png){:class="img-responsive"}  
-![image4](readme_screenshot/Screenshot_4.png){:height="50%" width="50%"}  
-![image4](readme_screenshot/Screenshot_4.png){:height="700px" width="400px"}  
+![image4](readme_screenshot/Screenshot_4.png)
 #### After  
 ![image5](readme_screenshot/Screenshot_5.png)  
 
